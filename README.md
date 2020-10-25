@@ -1,1 +1,1 @@
-# Oh-Crab-
+"Oh Crab!" is the game about the life cycle of blue crab start with Zoea state follow by Megalopa state and adult state. This game come in a 3D adventure style game with the slide cut scene to tell a story about blue crab life.
